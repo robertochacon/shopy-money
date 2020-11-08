@@ -1,0 +1,17 @@
+{
+    "name": "Fist app wpa",
+    "short_name": "Fist wpa",
+    "description": "my fisrt app wpa",
+    "background_color": "#FCE500",
+    "theme_color": "#D35400",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [{
+        "src": "img/image.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}
