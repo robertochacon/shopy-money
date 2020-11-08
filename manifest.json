@@ -1,7 +1,7 @@
 {
-    "name": "Fist app wpa",
-    "short_name": "Fist wpa",
-    "description": "my fisrt app wpa",
+    "name": "Shopy money",
+    "short_name": "Shopy Money",
+    "description": "my fisrt app money",
     "background_color": "#FCE500",
     "theme_color": "#D35400",
     "orientation": "portrait",
